@@ -1,3 +1,4 @@
 #List of ToDo's
 
 #first todo (changes in files and commit) has been Done.
+#second making .DS_Store file and tmp folder and temp1 file (Learning ignoring files Done) 
